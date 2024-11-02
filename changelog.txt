@@ -1,0 +1,75 @@
+*** Click & Pledge Changelog ***
+2024.08.07 - version 4.24080000-WP6.6.1-PMP3.1.3
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2023.11.24 - version 4.23110000-WP6.4.1-PMP2.12.4
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2023.04.11 - version 4.23040000-WP6.2.1-PMP2.10.3
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2022.03.10 - version 4.22030000-WP5.9.1-PMP2.7.5
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2021.12.06 - version 4.2112000000-WP5.8.2-PMP2.6.6
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2021.08.12 - version 4.2108000000-WP5.8-PMP2.5.10.2
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2021.03.30 - version 04.2103000000-WP5.7-PMP2.5.7
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2021.01.18 - version 04.2101000000-WP5.6-PMP2.5.2
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2020.11.04 - version 04.2011010000-WP.5.5.3-PMP2.4.4
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2020.06.11 - version 04.2006000000-WP.5.4.2-PMP2.3.3
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+ 
+2019.08.05 - version 3.0.4
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+ 
+2019.03.12 - version 3.0.3
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+ 
+2019.01.25 - version 3.0.2
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2018.06.29 - version 3.0.1
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2018.06.28 - version 3.0.0
+ * https://forums.clickandpledge.com/forum/platform-product-forums/3rd-party-integrations/paid-memberships-pro/40091-release-notes
+
+2017.02.01 - version 2.0.0
+ * Addition of Connect Campaign URL Alias allowing for updating of the set campaign as well as sending the selected campaign customized receipt.
+ * Compatibility with the latest PMP release v1.8.13.5.
+
+2015.10.19 - version 1.0.7
+ * Fixed tax handling issue when initial amount is zero
+
+2015.10.15 - version 1.0.6
+ * Fixed The total number of recurring billing cycles for this level, including
+the trial period (if applicable) but not including the initial payment
+
+2015.10.09 - version 1.0.5
+ * Fixed recurring issue
+
+2015.10.09 - version 1.0.4
+ * Added SKU for Memberships levels
+
+2015.8.21 - version 1.0.3
+ * Fixed forums URL issues
+
+2015.07.29 - version 1.0.2
+ * Fixed issues to display billing fields and payment fields
+ * Make Compatible with PMP version 1.8.4.5
+ 
+2015.07.27 - version 1.0.1
+ * Released as a separate plugin
+ 
+2014.06.25 - version 1.0.0
+ * Code Released to public
